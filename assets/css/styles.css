@@ -21,4 +21,17 @@
   --scroll-thumb-color: hsl(var(--hue-color), 12%, 80%);
   /* "Poppins" is main font, sans-serif is fallback font (if Poppins is not available in the system) */
   --body-font: "Poppins", sans-serif;
+
+  /* Fonts */
+  --big-font-size: 2rem;
+  --h1-font-size: 1.5rem;
+  --h2-font-size: 1.25rem;
+  --h3-font-size: 1.125rem;
+  --normal-font-size: 0.938rem;
+  --small-font-size: 0.813rem;
+  --smaller-font-size: 0.75rem;
+
+  /* Font Weights */
+  --font-medium: 500;
+  --font-semi-bold: 600;
 }
